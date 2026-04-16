@@ -1,14 +1,14 @@
-# Azure Style - Fashion Landing Page
+# Dreams Style - Fashion Landing Page
 
 Website landing page untuk produk fashion dengan tema **Baby Blue** yang elegan dan modern.
 
 ## 📋 Deskripsi Proyek
 
-Proyek ini adalah landing page interaktif untuk brand fashion "Azure Style" yang dibuat untuk memenuhi kebutuhan Ujian Tengah Semester Praktikum Pemrograman Berbasis Web.
+Proyek ini adalah landing page interaktif untuk brand fashion "Dreams Style" yang dibuat untuk memenuhi kebutuhan Ujian Tengah Semester Praktikum Pemrograman Berbasis Web.
 
 ## 🎨 Tema
 
-**Fashion - Azure Style**
+**Fashion - Dreams Style**
 - Warna utama: Baby Blue (#64b5f6)
 - Konsep: Elegansi dan kenyamanan
 - Target: Fashion premium dengan harga terjangkau
@@ -55,12 +55,15 @@ Proyek ini adalah landing page interaktif untuk brand fashion "Azure Style" yang
 ## 📁 Struktur File
 
 ```
-azure-style/
+dreams-style/
 │
-├── index.html          # Halaman utama
+├── index.html         # Halaman utama
+├── koleksi.html       # Halaman untuk melihat koleksi style 
+├── kontak.html        # Halaman kontak
+├── harga.html         # Halaman harga membership
 ├── style.css          # Custom styling
 ├── js.js              # JavaScript untuk interaktivitas
-└── README.md          # Dokumentasi
+└── README.md         # Dokumentasi
 ```
 
 ## 🚀 Cara Menggunakan
@@ -146,4 +149,4 @@ Proyek ini dibuat untuk keperluan edukasi - Ujian Tengah Semester.
 
 ---
 
-**Azure Style** - Elegansi Baby Blue untuk Gaya Harianmu
+**Dreams Style** - Elegansi Style untuk Gaya Harianmu
